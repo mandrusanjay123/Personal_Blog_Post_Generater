@@ -1,7 +1,7 @@
 # BlogCraft ✍️
 ### Your AI Blog Generation Companion
 
-![BlogCraft Banner](https://your-banner-image-url.png)
+![BlogCraft Banner](/img_blog_craft.png)
 
 Transform your ideas into engaging blog posts with the power of AI.
 
