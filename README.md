@@ -122,5 +122,6 @@ BlogCraft stands on the shoulders of giants:
 <div align="center">
 Made with ❤️ by the BlogCraft Team
 
-[Report Bug](https://github.com/your-username/blogcraft/issues) · [Request Feature](https://github.com/your-username/blogcraft/issues)
+[Report Bug](https://github.com/mandrusanjay123/Personal_Blog_Post_Generater
+/issues) · [Request Feature](https://github.com/mandrusanjay123/Personal_Blog_Post_Generater/issues)
 </div>
