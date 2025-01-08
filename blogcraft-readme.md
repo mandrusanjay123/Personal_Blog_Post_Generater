@@ -30,7 +30,8 @@ Before diving in, make sure you have:
 
 1. Clone your way to better content:
 ```bash
-git clone https://github.com/your-username/blogcraft.git
+git clone https://github.com/mandrusanjaykumar123/Personal_Blog_Post_Generater
+
 cd blogcraft
 ```
 
